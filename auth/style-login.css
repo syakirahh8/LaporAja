@@ -1,0 +1,7 @@
+.bg-gradient-pink {
+    background: linear-gradient(90deg, #bbdbbc, #a1c7dc); 
+}
+.btn-pink {
+    background-color: #bbdbbc !important;
+    color: #0077b6;
+}
